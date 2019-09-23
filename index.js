@@ -5,7 +5,7 @@ const user = 'Gorgutzz';
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  return '423de435b839f00fbb50f9b0f8a7749c4cf56b11';
+  return '';
 }
 
 function forkRepo() {
